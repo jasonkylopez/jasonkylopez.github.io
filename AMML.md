@@ -5,16 +5,6 @@ parent: Work Experience
 nav_order: 1
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-<script>
-  MathJax = {
-    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
-  };
-</script>
-
 # Undergraduate Researcher  
 **Additive Manufacturing and Metamaterials Lab (AMML)**  
 **UC Berkeley** | *May 2023 – December 2024*
