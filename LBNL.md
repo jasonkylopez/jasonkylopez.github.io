@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Undergraduate Research - Mechanical Design
+title: Undergraduate Research - Instrumentation and Measurements
 parent: Work Experience
 nav_order: 2
 ---
