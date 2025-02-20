@@ -19,9 +19,11 @@ The pedal’s primary function was to **delay audio signals**, creating repetiti
 ## Key Contributions
 Using **KiCAD**, I designed and modeled a printed circuit board (PCB) by applying foundational circuit knowledge. Starting from scratch, I manually created schematics that successfully passed the **Design Rule Check (DRC)**, ensuring electrical and mechanical integrity. Components were strategically placed to optimize space, improve signal flow, and enhance overall efficiency, resulting in a well-organized and functional PCB design.
 
+### PCB Layout and Parts of Schematic
+
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/guitarpedal_layout.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
-  <img src="assets/schematic1.png" alt="Laptop stand open CAD" style="height: 250px; width: auto;">
+  <img src="assets/guitarpedal_layout.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/pcb.png" alt="Laptop stand open CAD" style="height: 275px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
