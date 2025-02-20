@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Undergraduate Researcher - AMML
-parent: WorkExperience
+title: Undergraduate Research - Mechanical Design
+parent: Work Experience
 nav_order: 1
 ---
 
