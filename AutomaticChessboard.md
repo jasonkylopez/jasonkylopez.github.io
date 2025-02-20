@@ -12,10 +12,12 @@ nav_order: 1
 ---
 
 ## Overview 
-In our Intro to Mechatronics class we were given creative freedom with fabricating any mechanical system we desired with motors as well as circuit integration. Since the majority of our group enjoyed playing chess, we decided to challenge ourselves and create an automatic chess board that enables two players to play against each other and move pieces seamlessly without having to touch them. The only input that would have to do is their chess move via chess coordinates (i.e move A2 → A3, etc.). Our high-level strategy was a 2-axis gantry system that could move a magnet to the desired pieces and positions underneath the acrylic chessboard. In this project, I was responsible for the mechanical design and fabrication of the entire system.  
+In our Introduction to Mechatronics class, we were given the creative freedom to design and fabricate a mechanical system incorporating motors and integrated circuits. As a group of chess enthusiasts, we decided to challenge ourselves by creating an automatic chessboard that allows two players to compete without physically moving the pieces. The only input required from the players is their desired move in standard chess notation (e.g., A2 → A3).
+
+Our high-level strategy involved designing a 2-axis gantry system capable of moving a magnet beneath an acrylic chessboard to manipulate the pieces. For this project, I was responsible for the mechanical design and fabrication of the entire system, ensuring precision and functionality throughout the development process.  
 
 ## Key Contributions
-In this project, I took full responsibility for the mechanical design and fabrication of the entire system. This involved extensive CAD modeling in SolidWorks, where I finalized the design to ensure precision and functionality. Additionally, I created a Bill of Materials (BOM) and managed the outsourcing of components to meet project requirements. Countless hours were dedicated to 3D printing prototype parts to test fits, tolerances, and overall system performance, ensuring a robust and reliable final product.
+In this project, I took full responsibility for the mechanical design and fabrication of the entire system. This involved extensive CAD modeling in SolidWorks, where I finalized the design to ensure precision and functionality. Additionally, I created a Bill of Materials (BOM) and managed the outsourcing of components to meet project requirements. Countless hours were dedicated to prototyping 3D printed parts to test fits, tolerances, and overall system performance, ensuring a robust and reliable final product.
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
