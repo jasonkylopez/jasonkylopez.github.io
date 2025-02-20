@@ -12,11 +12,11 @@ nav_order: 2
 ---
 
 ## Overview 
-In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving ergonomics by creating a laptop stand that is collapsible for portability, adjustable to accommodate various laptop sizes, and sturdy enough to support even the heaviest laptops or tablets.
+In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving ergonomics by creating a **laptop stand** that is **collapsible** for portability, **adjustable** to accommodate various laptop sizes, and **sturdy** enough to support even the heaviest laptops or tablets.
 
 ## Key Contributions
 
-In this project a partner and I were responsible for designing and refining the original concept’s CAD using SolidWorks as well as water jetting aluminum sheet metal.
+In this project a partner and I were responsible for designing and refining the original concept’s CAD using SolidWorks, water jetting aluminum sheet metal, and overseeing fabrication. 
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
