@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XYlopeZ 3D Printer
+title: Mechanical Keyboard
 parent: Projects
 nav_order: 5
 ---

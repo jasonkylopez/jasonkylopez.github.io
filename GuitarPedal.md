@@ -16,6 +16,19 @@ In this introductory PCB course, I was tasked with designing and fabricating a p
 
 The pedal’s primary function was to **delay audio signals**, creating repetitive playback that gradually faded over time, while also adding **reverb** to simulate an **artificial ambience**. As a hidden feature, we incorporated a **self-oscillation** mode, which increased signal volume and introduced **distortion** over time—essentially the opposite of the delay effect. This added a creative twist for experimental sound manipulation.
 
+## Key Contributions
+Using **KiCAD**, I designed and modeled a printed circuit board (PCB) by applying foundational circuit knowledge. Starting from scratch, I manually created schematics that successfully passed the **Design Rule Check (DRC)**, ensuring electrical and mechanical integrity. Components were strategically placed to optimize space, improve signal flow, and enhance overall efficiency, resulting in a well-organized and functional PCB design.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/guitarpedal_layout.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
+  <img src="assets/schematic1.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/schematic2.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
+  <img src="assets/schematic3.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+</div>
+
 ### Key Features and Design Elements
 - **Custom Guitar Pedal Enclosure:** To house all the components, including the PCB, knobs, switches, LCD screen, and audio jacks, we designed and fabricated a custom guitar pedal enclosure. The enclosure was toleranced to ensure a perfect fit for all internal components while maintaining a sleek and professional appearance.
 
@@ -28,9 +41,15 @@ The pedal’s primary function was to **delay audio signals**, creating repetiti
 
 - **LCD Screen:**  Displayed the waveform of the audio signal, providing visual feedback for the user.
 
+### Internals and Final Product
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/guitarpedal_internals.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
+  <img src="assets/guitarpedal_final.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+</div>
+
 This project allowed us to apply our newfound PCB design skills while exploring the intersection of electronics and music. The final product was a functional and creative guitar pedal that demonstrated our ability to integrate circuit design, component selection, and user interface considerations into a cohesive and practical device.
 
 ## Skills & Tools  
 - **Software:** KiCAD, Arduino, Google Sheets.
-- **Equipment:** Soldering iron.
+- **Equipment:** Soldering iron, 3D Printer.
 
