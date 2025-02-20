@@ -19,7 +19,10 @@ In this course, our team was challenged to design and fabricate an innovative co
 In this project a partner and I were responsible for designing and refining the original concept’s CAD using SolidWorks as well as water jetting aluminum sheet metal.
 
 ### Finalized CAD Model
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/CADlaptopstandcollapsed.jpg" alt="Laptop stand closed CAD" style="height: 400px; width: auto;">
+  <img src="assets/CADlaptopstandopen.jpg" alt="Laptop stand open CAD" style="height: 400px; width: auto;">
+</div>
 
 ### Key Features and Design Elements
 - **Cross-Link Mechanism:** This mechanism allows the user to easily adjust the stand to fit their laptop’s length and fold it back into a compact form for portability. The cross-link design ensures smooth operation while maintaining structural integrity.
