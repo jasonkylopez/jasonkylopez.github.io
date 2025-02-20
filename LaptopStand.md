@@ -35,8 +35,8 @@ In this project a partner and I were responsible for designing and refining the 
 
 ### Final Product 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/laptopstandclosed.jpg" alt="Laptop stand closed" style="height: 275px; width: auto;">
-  <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 325px; width: auto;"> 
+  <img src="assets/laptopstandclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
+  <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;"> 
 </div>
 
 Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate mechanical design principles, material selection, and ergonomic considerations into a practical consumer product.
