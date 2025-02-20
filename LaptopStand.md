@@ -21,7 +21,7 @@ In this project a partner and I were responsible for designing and refining the 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/CADlaptopstandcollapsed.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
-  <img src="assets/CADlaptopstandopen.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+  <img src="assets/CADlaptopstandopen.png" alt="Laptop stand open CAD" style="height: 325px; width: auto;">
 </div>
 
 ### Key Features and Design Elements
