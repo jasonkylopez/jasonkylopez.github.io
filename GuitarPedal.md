@@ -30,5 +30,7 @@ The pedal’s primary function was to **delay audio signals**, creating repetiti
 
 This project allowed us to apply our newfound PCB design skills while exploring the intersection of electronics and music. The final product was a functional and creative guitar pedal that demonstrated our ability to integrate circuit design, component selection, and user interface considerations into a cohesive and practical device.
 
-
+## Skills & Tools  
+- **Software:** KiCAD, Arduino, Google Sheets.
+- **Equipment:** Soldering iron.
 
