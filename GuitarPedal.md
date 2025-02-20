@@ -21,12 +21,15 @@ Using **KiCAD**, I designed and modeled a printed circuit board (PCB) by applyin
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/guitarpedal_layout.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
-  <img src="assets/schematic1.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+  <img src="assets/schematic1.png" alt="Laptop stand open CAD" style="height: 250px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/schematic2.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
-  <img src="assets/schematic3.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/schematic3.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
 </div>
 
 ### Key Features and Design Elements
@@ -43,8 +46,8 @@ Using **KiCAD**, I designed and modeled a printed circuit board (PCB) by applyin
 
 ### Internals and Final Product
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/guitarpedal_internals.png" alt="Laptop stand closed CAD" style="height: 300px; width: auto;">
-  <img src="assets/guitarpedal_final.png" alt="Laptop stand open CAD" style="height: 300px; width: auto;">
+  <img src="assets/guitarpedal_internals.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/guitarpedal_final.png" alt="Laptop stand open CAD" style="height: 275px; width: auto;">
 </div>
 
 This project allowed us to apply our newfound PCB design skills while exploring the intersection of electronics and music. The final product was a functional and creative guitar pedal that demonstrated our ability to integrate circuit design, component selection, and user interface considerations into a cohesive and practical device.
