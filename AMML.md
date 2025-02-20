@@ -5,9 +5,9 @@ parent: Work Experience
 nav_order: 1
 ---
 
-# Undergraduate Researcher  
-**Additive Manufacturing and Metamaterials Lab (AMML)**  
-**UC Berkeley** | *May 2023 – December 2024*
+# Undergraduate Researcher - Mechanical Design
+**Additive Manufacturing and Metamaterials Laboratory (AMML)**  
+**UC Berkeley** | *May 2024 – December 2024*
 
 ---
 
@@ -17,7 +17,10 @@ During my time at the **Additive Manufacturing and Metamaterials Laboratory (AMM
 ---
 
 ## Key Contributions  
-My responsibilities included using the CAD software SolidWorks to design the entire assembly of the printer and overseeing its fabrication. I conceptualized and prototyped modular vats, printheads, mounts, and other interchangeable components to ensure ease of use and adaptability. With access to several commercial 3D printers in our lab, I was able to test various CAD models extensively. This project also enhanced my skills in testing for tolerances and designing parts that were both easy to assemble and structurally robust.
+My main responsibilities included using **SolidWorks** to design the entire assembly of the printer and oversee its fabrication. I conceptualized and prototyped modular vats, printheads, mounts, and other interchangeable components to ensure ease of use and adaptability. With access to several commercial 3D printers in our lab, I was able to test various CAD models extensively. This project also enhanced my skills in testing for tolerances and designing parts that were both easy to assemble and structurally robust.
 
-
+## Skills & Tools  
+- **Software Proficiency:** SolidWorks, MATLAB, Arduino.  
+- **Lab Equipment:** 3D printers, ovens, and precision measurement tools.  
+- **Materials Expertise:** Worked with hazardous materials, ensuring safety and compliance.  
 
