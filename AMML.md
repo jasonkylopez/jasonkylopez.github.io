@@ -12,11 +12,12 @@ nav_order: 1
 ---
 
 ## Overview  
-As an undergraduate researcher, I focused on advancing **multimaterial Digital Light Processing (DLP) 3D printing** and the development of **piezoelectric actuators**. My work involved designing 3D printers and their software, manufacturing small scale piezoelectric actuators, and optimizing printing parameters of novel printing techniques.
+During my time at the **Additive Manufacturing and Metamaterials Laboratory (AMML)**, I focused on advancing additive manufacturing by designing an innovative **DLP multi-material 3D printer** that utilized **dual projection** to cure resins at two different wavelengths. This printer was instrumental in testing various resin formulas and mixtures to identify the optimal combination for the development of **electroless copper plating** on intricate resin prints. Its ability to print multiple microlattices simultaneously highlighted its efficiency and potential for producing complex multi-material prints. 
 
 ---
 
 ## Key Contributions  
+My responsibilities included using the CAD software SolidWorks to design the entire assembly of the printer and overseeing its fabrication. I conceptualized and prototyped modular vats, printheads, mounts, and other interchangeable components to ensure ease of use and adaptability. With access to several commercial 3D printers in our lab, I was able to test various CAD models extensively. This project also enhanced my skills in testing for tolerances and designing parts that were both easy to assemble and structurally robust.
 
-### Multimaterial DLP Printing
-I designed and fabicated a DLP printer that incorporated a new cleaning method between resin swaps. I also configured the software for material swapping and cleaning through **Arduino** and **LabVIEW**. Produced successful multimaterial prints with minimized resin cross-contamination.
+
+
