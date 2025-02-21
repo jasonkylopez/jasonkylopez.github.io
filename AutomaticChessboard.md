@@ -21,7 +21,7 @@ In this project, I took full responsibility for the mechanical design and fabric
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 367px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
