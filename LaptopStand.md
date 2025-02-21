@@ -12,11 +12,11 @@ nav_order: 2
 ---
 
 ## Overview 
-In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving ergonomics by creating a **laptop stand** that is **collapsible** for portability, **adjustable** to accommodate various laptop sizes, and **sturdy** enough to support even the heaviest laptops or tablets.
+In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving **ergonomics** by creating a **laptop stand** that is **collapsible** for portability, **adjustable** to accommodate various laptop sizes, and **sturdy** enough to support even the heaviest laptops or tablets.
 
 ## Key Contributions
 
-For this project, my partner and I designed the original concept using SolidWorks, created precision components by water jetting aluminum sheet metal, and oversaw the fabrication process to ensure quality and accuracy. 
+For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy. 
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -39,7 +39,7 @@ For this project, my partner and I designed the original concept using SolidWork
   <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;"> 
 </div>
 
-Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate mechanical design principles, material selection, and ergonomic considerations into a practical consumer product.
+Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate mechanical design principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
 
 ## Skills & Tools  
 - **Software:** SolidWorks, Google Sheets.
