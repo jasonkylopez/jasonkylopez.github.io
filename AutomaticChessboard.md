@@ -21,7 +21,7 @@ In this project, I took full responsibility for the mechanical design and fabric
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 367px; width: auto;">
+  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -41,3 +41,7 @@ In this project, I took full responsibility for the mechanical design and fabric
 - **Stepper Motors and Drive Components:** Stepper motors powered the gantry system, while belts, pulleys, idlers, and tensioners ensured smooth and precise movement. To ensure robustness and rigidity, the stepper motors were housed in custom enclosures made from 1/8-inch aluminum plates. These enclosures were designed to securely hold the motors in place while maintaining a clean and organized overall design. The combination of 3D-printed components and aluminum plates provided the necessary durability to support the system’s precise movements and long-term functionality.
 
 Our project was a huge success at our final showcase, as multiple people were able to play full chess games with each other as others watched.
+
+## Skills & Tools  
+- **Software:** SolidWorks, Python, Google Sheets.
+- **Equipment:** 3D printer, Water jet, Soldering.

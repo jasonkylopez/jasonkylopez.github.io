@@ -43,4 +43,4 @@ Through this project, we successfully delivered a functional, user-friendly lapt
 
 ## Skills & Tools  
 - **Software:** SolidWorks, Google Sheets.
-- **Equipment:** 3D printer, Water jet.    
+- **Equipment:** 3D printer, Water jet.
