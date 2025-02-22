@@ -40,6 +40,8 @@ In this project, I took full responsibility for the **mechanical design and fabr
 
 - **Stepper Motors and Drive Components:** Stepper motors powered the gantry system, while belts, pulleys, idlers, and tensioners ensured smooth and precise movement. To ensure robustness and rigidity, the stepper motors were housed in custom enclosures made from 1/8-inch aluminum plates. These enclosures were designed to securely hold the motors in place while maintaining a clean and organized overall design. The combination of 3D-printed components and aluminum plates provided the necessary durability to support the system’s precise movements and long-term functionality.
 
+- **Precive Movement System:**To accommodate the movement of pieces between occupied squares, we implemented a three-step motion sequence: first, moving the piece diagonally to the corner of its current square; then, transitioning linearly to the corner of the target square; and finally, moving diagonally again to the piece's final position.  
+
 Our project was a huge success at our final showcase, as multiple people were able to play full chess games with each other as others watched.
 
 <div style="display: flex; justify-content: center;">
