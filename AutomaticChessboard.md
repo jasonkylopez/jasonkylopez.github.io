@@ -44,7 +44,7 @@ Our project was a huge success at our final showcase, as multiple people were ab
 
 <div style="display: flex; justify-content: center;">
   <video style="height: 450px; width: auto;" controls autoplay loop muted>
-    <source src="assets/IMG_3129.mov" type="video/mov">
+    <source src="assets/IMG_3129.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
