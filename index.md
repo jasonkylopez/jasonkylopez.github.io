@@ -5,7 +5,7 @@ nav_order: 1
 ---
 About Me
 ----
-Hello! My name is **Jason Lopez**, and I am a **Mechanical Engineer** with a passion for designing and creating innovative solutions for robotics and electronics.
+Hello! My name is **Jason Lopez**, and I am a **Mechanical Engineer** with a passion for mechanical design and creating innovative solutions for robotics and electronics.
 
 <div style="text-align: center;">
   <img src="assets/headshot.png" alt="Headshot" width="1000">

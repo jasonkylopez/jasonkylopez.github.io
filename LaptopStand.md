@@ -39,7 +39,7 @@ For this project, my partner and I designed the original concept using **SolidWo
   <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;"> 
 </div>
 
-Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate mechanical design principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
+Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate **mechanical design** principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
 
 ## Skills & Tools  
 - **Software:** SolidWorks, Google Sheets.

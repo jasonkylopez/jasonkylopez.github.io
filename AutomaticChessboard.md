@@ -42,6 +42,13 @@ In this project, I took full responsibility for the **mechanical design and fabr
 
 Our project was a huge success at our final showcase, as multiple people were able to play full chess games with each other as others watched.
 
+<div style="display: flex; justify-content: center;">
+  <video style="height: 450px; width: auto;" controls autoplay loop muted>
+    <source src="assets/IMG_3129.mov" type="video/mov">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Skills & Tools  
 - **Software:** SolidWorks, Python, Google Sheets.
 - **Equipment:** 3D printer, Water jet, Soldering Iron, Stepper Motors. 
