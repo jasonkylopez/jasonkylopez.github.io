@@ -21,12 +21,7 @@ In this project, I took full responsibility for the **mechanical design and fabr
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 367px; width: auto;">
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/rackandpinionCAD.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
-  <img src="assets/motorhousing.png" alt="Laptop stand open CAD" style="height: 275px; width: auto;">
+  <img src="assets/chessboardCAD.png" alt="Laptop stand closed CAD" style="height: 400px; width: auto;">
 </div>
 
 ### Key Features and Design Elements
