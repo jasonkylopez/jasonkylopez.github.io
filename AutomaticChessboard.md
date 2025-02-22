@@ -12,16 +12,16 @@ nav_order: 1
 ---
 
 ## Overview 
-In our Introduction to Mechatronics class, we were given the creative freedom to design and fabricate a mechanical system incorporating motors and integrated circuits. As a group of chess enthusiasts, we decided to challenge ourselves by creating an automatic chessboard that allows two players to compete without physically moving the pieces. The only input required from the players is their desired move in standard chess notation (e.g., A2 → A3).
+In our Introduction to Mechatronics class, we were given the creative freedom to design and fabricate a **mechanical system** incorporating **motors** and integrated circuits. As a group of chess enthusiasts, we decided to challenge ourselves by creating an **automatic chessboard** that allows two players to compete without physically moving the pieces. The only input required from the players is their desired move in standard chess notation (e.g., A2 → A3).
 
-Our high-level strategy involved designing a 2-axis gantry system capable of moving a magnet beneath an acrylic chessboard to manipulate the pieces. For this project, I was responsible for the mechanical design and fabrication of the entire system, ensuring precision and functionality throughout the development process.  
+Our high-level strategy involved designing a **2-axis gantry** system capable of moving a **magnet** beneath an acrylic chessboard to manipulate the pieces. For this project, I was responsible for the mechanical design and fabrication of the entire system, ensuring precision and functionality throughout the development process.  
 
 ## Key Contributions
-In this project, I took full responsibility for the mechanical design and fabrication of the entire system. This involved extensive CAD modeling in SolidWorks, where I finalized the design to ensure precision and functionality. Additionally, I created a Bill of Materials (BOM) and managed the outsourcing of components to meet project requirements. Countless hours were dedicated to prototyping 3D printed parts to test fits, tolerances, and overall system performance, ensuring a robust and reliable final product.
+In this project, I took full responsibility for the **mechanical design and fabrication** of the entire system. This involved extensive CAD modeling in **SolidWorks**, where I finalized the design to ensure precision and functionality. Additionally, I created a **Bill of Materials (BOM)** and managed the outsourcing of components to meet project requirements. I also had the task of **water jetting** the 1/8" aluminum sheet metal for our motor housing. Countless hours were dedicated to **prototyping** 3D printed parts to test fits, tolerances, and overall system performance, ensuring a robust and reliable final product.
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/chessboard_finalCAD.png" alt="Laptop stand closed CAD" style="height: 367px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -32,7 +32,7 @@ In this project, I took full responsibility for the mechanical design and fabric
 ### Key Features and Design Elements
 - **Custom Chess Pieces:** Each chess piece was 3D-printed and embedded with a magnet at its base, enabling interaction with the gantry system’s main magnet.
 
-- **Acrylic Chess Board:** We selected an acrylic sheet as the base and laser-etched a chessboard pattern onto its surface. This provided a sleek, durable playing surface while allowing the magnet to move freely underneath. 
+- **Acrylic Chess Board:** We selected an acrylic sheet as the base and laser-etched a chessboard pattern onto its surface. This provided a sleek, durable playing surface while allowing the magnet to move freely underneath.    
 
 - **2-Axis Gantry System:** The gantry system was designed to move the main magnet in the X and Y directions with a travel distance of at least 300mm in both axes. This exceeded the chessboard’s dimensions (~250mm x 250mm) to accommodate a designated “trash bin” area for captured pieces. 
 
@@ -44,4 +44,4 @@ Our project was a huge success at our final showcase, as multiple people were ab
 
 ## Skills & Tools  
 - **Software:** SolidWorks, Python, Google Sheets.
-- **Equipment:** 3D printer, Water jet, Soldering.
+- **Equipment:** 3D printer, Water jet, Soldering Iron, Stepper Motors. 
