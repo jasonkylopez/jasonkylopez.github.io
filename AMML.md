@@ -37,7 +37,7 @@ My main responsibilities included using **SolidWorks** to design the entire asse
 To identify the **optimal resin ratios** for copper plating, we aimed to maximize testing efficiency and produce as many samples as possible. We focused on printing **two distinct types of samples**: a small **microlattice** to assess the **selectivity and conductivity** of the copper deposition, and a **3x3 pillar cube** to evaluate the **surface finish** of the copper plating. The resin mixture was not the only factor we considered as **curing time** also played a critical role in determining the **quality** of our samples. Through iterative testing, we optimized the curing times to achieve the best possible results.   
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/microlattices.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/microlattices.png" alt="Laptop stand closed CAD" style="height: 350px; width: auto;">
 </div>
 
 ---
