@@ -26,7 +26,7 @@ During my time at the **Additive Manufacturing and Metamaterials Laboratory (AMM
 ## Key Contributions  
 My main responsibilities included using **SolidWorks** to design the entire assembly of the printer and oversee its fabrication. I conceptualized and prototyped modular vats, printheads, mounts, and other interchangeable components to ensure ease of use and adaptability. With access to several commercial 3D printers in our lab, I was able to test various parts extensively. This project also enhanced my skills in testing for tolerances and designing parts that were both easy to assemble and structurally robust. 
 
-**A preview of the CAD assembly:** 
+**CAD Assembly:** 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/dualwavelengthCAD.png" alt="Laptop stand closed CAD" style="height: 450px; width: auto;">
@@ -38,6 +38,12 @@ To identify the **optimal resin ratios** for copper plating, we aimed to maximiz
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/microlattices.png" alt="Laptop stand closed CAD" style="height: 350px; width: auto;">
+</div>
+
+**Final Product**
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/dualprinterirl.jpg" alt="Laptop stand closed CAD" style="height: 325px; width: auto;">
+  <img src="assets/meprinter.jpg" alt="Laptop stand open CAD" style="height: 325px; width: auto;">
 </div>
 
 ---

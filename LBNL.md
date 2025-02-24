@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Undergraduate Researcher - Instrumentation and Measurements
-**Lawrence Berkeley National Laboratory (AMML)**  
+**Lawrence Berkeley National Laboratory (LBNL)**  
 **UC Berkeley** | *May 2023 – August 2023*
 
 ---
