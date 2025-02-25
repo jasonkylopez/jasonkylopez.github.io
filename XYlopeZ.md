@@ -5,6 +5,11 @@ parent: Projects
 nav_order: 4
 ---
 
+# Personal 3D Printer: XYlopeZ  
+**Home** | *November 2024 – Present*
+
+--- 
+
 ## Overview 
 Inspired by my experience working in an additive manufacturing lab, I embarked on a personal project to design and build a **custom 3D printer** for myself. My goal is to create a printer with a **large build volume**, capable of matching or exceeding the **speed** of current commercial models, while maintaining **reliable print quality** and a clean, **robust design**. This project serves as an ideal opportunity to apply and expand my skills as a mechanical engineer, as it integrates multiple disciplines, including mechanical design, electronics, heat transfer, kinematics, coding, and more.
 
