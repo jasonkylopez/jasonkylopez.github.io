@@ -25,8 +25,6 @@ To **measure ground motion** within the lab sector, I utilized **seismic acceler
 
 The experimental setup comprised **three seismic accelerometers** securely mounted onto a precision-machined metal block, with each accelerometer aligned to **measure displacement along the X, Y, and Z axes**, respectively. These sensors were connected to a data acquisition system to capture vibration data. Using Data Physics software, the raw acceleration data was collected over user-defined intervals, processed, and averaged to generate the outputs. The raw data, initially provided in units of *g/s*, was challenging to interpret in its unprocessed form. To analyze the data more effectively, MATLAB was employed to perform a **Fast Fourier Transform (FFT)**, converting the time-domain signals into the frequency domain. This allowed the data to be represented as **Acceleration Power Spectral Density (APSD)** plotted against **frequency (Hz)**. For extended data acquisition periods, such as week-long recordings, the data was also visualized as a **spectrogram**, incorporating time as an additional dimension. This provided the engineering team with valuable insights into the temporal variations in **vibration patterns**, particularly in identifying prominent vibrations occurring at different times throughout the day and night. An example of this analysis is illustrated in the spectrogram generated from a one-week recording conducted adjacent to a lithography machine in the sector:
 
-: 
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="assets/spectrogram3D.png" alt="spectrogram3D" style="height: 350px; width: auto;">
 </div>
