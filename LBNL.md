@@ -35,3 +35,6 @@ The experimental setup comprised **three seismic accelerometers** securely mount
 
 **Patterns** and **resonant frequencies** are clearly identifiable in the spectrogram. For instance, a distinct line appearing and disappearing at approximately 4.9 Hz corresponds to the **operational cycles** of the Advanced Light Source (ALS), a particle accelerator at LBNL. This pattern reflects the ALS being powered on during active hours and transitioning to a dormant state during the night. Similar **periodic patterns** are observable at frequencies around 35 Hz and 53 Hz, further corroborating the influence of the ALS on the vibrational environment. Additionally, a subtle, trend near 8.3 Hz is evident, which aligns with the **intermittent operation** of other machinery in the sector throughout the day. These trends provide valuable insights into the temporal dynamics of **vibrational activity** and its correlation with specific equipment usage.
 
+## Skills & Tools  
+- **Software:** MATLAB, Data Physics, Google Sheets.
+- **Equipment:** Accelerometers, Data Acquisitioner.
