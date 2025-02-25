@@ -13,5 +13,5 @@ Currently, the project is a **work in progress**, with a detailed CAD model in d
 **CAD Assembly**:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/XYlopeZ.png" alt="Laptop stand closed CAD" style="height: 500px; width: auto;">
+  <img src="assets/XYlopeZ.png" alt="XYlopeZ" style="height: 500px; width: auto;">
 </div>

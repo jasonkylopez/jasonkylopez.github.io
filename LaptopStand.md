@@ -20,8 +20,8 @@ For this project, my partner and I designed the original concept using **SolidWo
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/CADlaptopstandcollapsed.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
-  <img src="assets/CADlaptopstandopen.png" alt="Laptop stand open CAD" style="height: 325px; width: auto;">
+  <img src="assets/CADlaptopstandcollapsed.png" alt="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
+  <img src="assets/CADlaptopstandopen.png" alt="CADlaptopstandopen" style="height: 325px; width: auto;">
 </div>
 
 ### Key Features and Design Elements

@@ -20,7 +20,7 @@ During my time at the **Additive Manufacturing and Metamaterials Laboratory (AMM
 **Our novel approach addresses these inefficiencies** by utilizing two distinct polymerization mechanisms—ring-opening polymerization and free radical polymerization—each activated by a **different wavelength of light**. This innovative method **eliminates the need for material change processes**, significantly **accelerating the overall printing speed** while preserving the structural integrity of the printed components. The following diagram provides an overview of our printer's operation:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/dlp_process.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
+  <img src="assets/dlp_process.png" alt="dlp_process" style="height: 275px; width: auto;">
 </div>
 
 ## Key Contributions  
