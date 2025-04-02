@@ -16,12 +16,12 @@ In this course, our team was challenged to design and fabricate an innovative co
 
 ## Key Contributions
 
-For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy. 
+For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.    
 
 ### Finalized CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/CADlaptopstandcollapsed.png" alt="Laptop stand closed CAD" style="height: 275px; width: auto;">
-  <img src="assets/CADlaptopstandopen.png" alt="Laptop stand open CAD" style="height: 325px; width: auto;">
+  <img src="assets/CADlaptopstandcollapsed.png" alt="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
+  <img src="assets/CADlaptopstandopen.png" alt="CADlaptopstandopen" style="height: 325px; width: auto;">
 </div>
 
 ### Key Features and Design Elements
@@ -39,7 +39,7 @@ For this project, my partner and I designed the original concept using **SolidWo
   <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;"> 
 </div>
 
-Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate mechanical design principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
+Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It reflects our ability to integrate **mechanical design** principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
 
 ## Skills & Tools  
 - **Software:** SolidWorks, Google Sheets.
