@@ -4,6 +4,5 @@ theme: just-the-docs
 
 url: https://jklopez1.github.io/
 aux_links:
-  Resume: (/assets/Lopez_Jason_Resume_03_2025.pdf){: .btn .btn-primary }
   LinkedIn: https://www.linkedin.com/in/jasonkylopez/
   GitHub: https://github.com/jklopez1/
