@@ -7,7 +7,7 @@ nav_order: 2
 
 # Adjustable & Collapsible Laptop Stand
 **Class: Introduction to Manufacturing and Design**  
-**UC Berkeley** | *February 2023 – May 2023*
+**UC Berkeley** | *January 2023 – May 2023*
 
 ---
 
@@ -27,7 +27,7 @@ For this project, my partner and I designed the original concept using **SolidWo
 ### Key Features and Design Elements
 - **Cross-Link Mechanism:** This mechanism allows the user to easily adjust the stand to fit their laptop’s length and fold it back into a compact form for portability. The cross-link design ensures smooth operation while maintaining structural integrity.
 
-- **Adjustable Slots**: The stand includes four preset tilt/angle adjustments, enabling users to customize their screen height and angle for optimal ergonomic comfort. These settings cater to both laptop and tablet users, promoting better posture and reducing strain during extended use.
+- **Adjustable Slots:** The stand includes four preset tilt/angle adjustments, enabling users to customize their screen height and angle for optimal ergonomic comfort. These settings cater to both laptop and tablet users, promoting better posture and reducing strain during extended use.
 
 - **Material Selection:** To balance durability and cost-effectiveness, we constructed the stand using 1/8-inch aluminum for its strength and rigidity, combined with 3D-printed PLA components for the housing. We cut the aluminum plate ourselves using our school machine shop’s waterjet. This combination provides the sturdiness needed to support heavy devices while keeping production costs low.
 
