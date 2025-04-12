@@ -2,10 +2,10 @@
 layout: default
 title: Personal 3D Printer
 parent: Projects
-nav_order: 4
+nav_order: 5
 ---
 
-# Personal 3D Printer: XYlopeZ  
+# Personal 3D Printer: XYlopeZ (IN PROGRESS) 
 **Home** | *November 2024 – Present*
 
 --- 

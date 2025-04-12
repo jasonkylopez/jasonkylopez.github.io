@@ -2,7 +2,7 @@
 layout: default
 title: Delay & Reverb Guitar Pedal
 parent: Projects
-nav_order: 3
+nav_order: 4
 ---
 
 # Delay & Reverb Guitar Pedal: Ditto
