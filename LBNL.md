@@ -2,7 +2,7 @@
 layout: default
 title: Undergraduate Research - Instrumentation and Measurements
 parent: Work Experience
-nav_order: 2
+nav_order: 3
 ---
 
 # Undergraduate Researcher - Instrumentation and Measurements

@@ -2,7 +2,7 @@
 layout: default
 title: Undergraduate Research - Mechanical Design
 parent: Work Experience
-nav_order: 1
+nav_order: 2
 ---
 
 # Undergraduate Researcher - Mechanical Design
