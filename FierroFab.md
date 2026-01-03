@@ -32,7 +32,7 @@ Design bucks and dies for the fabricators to speed up and refine the process of 
 My role encompassed the end to end design of jigs, bucks, and dies used by fabricators for metal restoration. This process involved 3D scanning the vehicle body to capture mesh data, using that data as a reference to surface model the body panels back to their original formed state, and designing the corresponding bucks, jigs, or dies from the finalized surface profile. These tools were then 3D printed for use in fabrication.
 
 ## Results:  
-These 3D printed custom tools streamlined the fabrication process by removing the need for manually prepared profiles and cutout templates, enabling fabricators to achieve finished parts more quickly and with more accuracy as well.
+These 3D printed custom tools streamlined the fabrication process by removing the need for manually prepared profiles and cutout templates, enabling fabricators to achieve finished parts quicker and more accurately.
 
 ## Photos:
 
