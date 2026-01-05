@@ -60,7 +60,7 @@ Another project involved designing **custom lower grilles** for a classic **1968
 
 ### Fierro Fab Press Brake 
 I was tasked with designing a custom 50" press brake for our shop. The design incorporated sheet-metal drawers engineered to support the weight of the press brake fingers and stamping tools, providing organized storage while maintaining structural integrity under load. 
- 
+
 
 ### Custom Gasket Trim
 
@@ -69,6 +69,9 @@ For the same Camaro I designed the lower grilles for, I also created custom gask
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/camarofrontdoor.jpg" alt="cfd" style="height: 300px; width: auto;">
   <img src="assets/customgasketCAD.jpg" alt="cgcad" style="height: 300px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/custom gasket.jpg" alt="cg" style="height: 300px; width: auto;">
 </div>
 
