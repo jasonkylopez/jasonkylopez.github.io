@@ -22,13 +22,17 @@ projects and collaborated closely with fabricators, designers, and engineers fro
 4. Operated and managed **3D printers** and laser cutters to produce and **refine prototypes** for various mechanical parts. 
 5. Checked clearances for newly added components and structural modifications, and recommended design changes when needed.
 
-## Fender and Body Panel Restorations:
+## Body Panel Restorations / Reverse Engineering Automotive Components
 
-One of my primary responsibilities was prototyping custom **dies and bucks** to improve the efficiency and accuracy of metal shaping. With multiple Lincoln restorations and mirrored driver and passenger side components, these tools helped **maintain accurate geometry, streamline fabrication, and ensure consistency across parts**.
+One of my primary responsibilities was prototyping custom **dies and bucks** to improve the efficiency and accuracy of metal shaping. With multiple Lincoln restorations and mirrored driver and passenger side components, these tools helped **maintain accurate geometry, streamline fabrication, and ensure consistency across parts**. 
+
+Many of the components we work with do not have available OEM CAD data. As a result, I am responsible for **reverse engineering** these parts to capture their true geometry, with particular attention to **critical features** such as mounting hole locations and **dimensional tolerances**, ensuring accurate alignment and integration within CAD assemblies.
 
 Work Flow:
 
 Identify problem → 3D scanning → Surface Modeling in AutoDesk Fusion → CAD → 3D Printing → Final Product
+
+
 
 
 ## Wheel Hub Design
@@ -59,7 +63,10 @@ Another project involved designing **custom lower grilles** for a classic **1968
 
 ### Fierro Fab Press Brake 
 I was tasked with designing a custom 50" press brake for our shop. The design incorporated sheet-metal drawers engineered to support the weight of the press brake fingers and stamping tools, providing organized storage while maintaining structural integrity under load. 
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/Pressbrake.jpg" alt="pb" style="height: 300px; width: auto;">
+  <img src="assets/pressbrakeopen.jpg" alt="pbo" style="height: 300px; width: auto;">
+</div>
 
 ### Custom Gasket Trim
 
