@@ -49,8 +49,8 @@ I was responsible for designing a **custom wheel hub** for the Lincoln based on 
 Another project involved designing **custom lower grilles** for a classic **1968 Camaro** car model. The design required careful **integration and mounting** with the existing front body panels and **visual alignment with the upper grille**. Using Fusion, I designed both driver and passenger side grilles and tested fitment through 3D-printed prototypes. A key challenge in this project was that the pre-existing left and right openings of the front of the Camaro were not perfectly symmetric, requiring two distinct designs to achieve proper fitting.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/GrilleCAD.PNG" alt="grilleopen" style="height: 300px; width: auto;">
-  <img src="assets/GrilleFinalCAD.png" alt="grillecad" style="height: 300px; width: auto;">
+  <img src="assets/GrilleCAD.PNG" alt="grilleopen" style="height: 290px; width: auto;">
+  <img src="assets/GrilleFinalCAD.png" alt="grillecad" style="height: 290px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
