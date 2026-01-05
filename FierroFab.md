@@ -16,10 +16,10 @@ As a Mechanical Engineer at Fierro Fab, I've had the opprtunity of working on an
 projects and collaborated closely with fabricators, designers, and engineers from diverse backgrounds. 
 
 ## Main Resposibilities: 
-1. Designed and built custom dies, fixtures, and bucks to support the forming and restoration of sheet metal components. 
-2. Utilized 3D scanning software and equipment to reverse engineer and redesign automotive parts for repair and reproduction. 
-3. Surface modeled different car panels and parts using referenced scanned mesh data in Autodesk Fusion and QuickSurface.
-4. Operated and managed 3D printers and laser cutters to produce and refine prototypes for various mechanical parts. 
+1. Designed and built custom **dies, fixtures, and bucks** to support the forming and restoration of sheet metal components. 
+2. Utilized **3D scanning software and equipment** to reverse engineer and redesign automotive parts for repair and reproduction. 
+3. **Surface modeled** different car panels and parts using referenced scanned mesh data in **Autodesk Fusion and QuickSurface**.
+4. Operated and managed **3D printers** and laser cutters to produce and **refine prototypes** for various mechanical parts. 
 5. Checked clearances for newly added components and structural modifications, and recommended design changes when needed.
 
 ## Fender and Body Panel Restorations:
@@ -29,7 +29,6 @@ One of my primary responsibilities was prototyping custom **dies and bucks** to 
 Work Flow:
 
 Identify problem → 3D scanning → Surface Modeling in AutoDesk Fusion → CAD → 3D Printing → Final Product
-
 
 
 ## Wheel Hub Design
@@ -46,7 +45,7 @@ I was responsible for designing a **custom wheel hub** for the Lincoln based on 
 
 ## Supporting Projects & One-offs:
 
-### Custom Grille
+### Custom 1968 Camaro Grilles
 Another project involved designing **custom lower grilles** for a classic **1968 Camaro** car model. The design required careful **integration and mounting** with the existing front body panels and **visual alignment with the upper grille**. Using Fusion, I designed both driver and passenger side grilles and tested fitment through 3D-printed prototypes. A key challenge in this project was that the pre-existing left and right openings of the front of the Camaro were not perfectly symmetric, requiring two distinct designs to achieve proper fitting.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
