@@ -22,59 +22,74 @@ projects and collaborated closely with fabricators, designers, and engineers fro
 4. Operated and managed **3D printers** and laser cutters to produce and **refine prototypes** for various mechanical parts. 
 5. Checked clearances for newly added components and structural modifications, and recommended design changes when needed.
 
-## Body Panel Restorations / Reverse Engineering Automotive Components
+### Bucks and Dies for Body Panel Restoration
 
-One of my primary responsibilities was prototyping custom **dies and bucks** to improve the efficiency and accuracy of metal shaping. With multiple Lincoln restorations and mirrored driver and passenger side components, these tools helped **maintain accurate geometry, streamline fabrication, and ensure consistency across parts**. 
-
-Many of the components we work with do not have available OEM CAD data. As a result, I am responsible for **reverse engineering** these parts to capture their true geometry, with particular attention to **critical features** such as mounting hole locations and **dimensional tolerances**, ensuring accurate alignment and integration within CAD assemblies.
+One of my primary responsibilities was prototyping custom **dies and bucks** to improve the efficiency and accuracy of metal shaping. With multiple Lincoln restorations and mirrored driver and passenger side components, these tools helped **maintain accurate geometry, streamline fabrication, and ensure consistency across parts**. Here I display only a few of the many body panels that I have contributed into restoring. 
 
 Work Flow:
 
-Identify problem → 3D scanning → Surface Modeling in AutoDesk Fusion → CAD → 3D Printing → Final Product
+Identify problem and solution → 3D scanning → Surface Modeling and/or CAD → 3D Printing → Final Product
+
+Rear Inner Quarter to Flip-up Panel
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/iqp_scan.png" alt="iqp_scan" style="height: 290px; width: auto;">
+  <img src="assets/iqp_surface .png" alt="iqp_surface" style="height: 300px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/iqp_femalebuck.png" alt="grilleopen" style="height: 300px; width: auto;">
+</div>
 
 
 
+### Wheel Hub Design
 
-## Wheel Hub Design
-
-I was responsible for designing a **custom wheel hub** for the Lincoln based on an initial render provided by the industrial engineer that we work alongside with. The design process required careful consideration of **mechanical fitment**, including interface with the brake rotor and clearance for the brake calipers. **Multiple design iterations were explored**, evaluating wheel thickness and integrated whitewall proportions. The final concept recreated the classic whitewall aesthetic by incorporating it directly into the rim design rather than the tire itself. I designed the wheel hub in Fusion and 3D printed sections of different variations of the wheel. 
-<div style="display: flex; justify-content: center; gap: 20px;">
+I had the amazing opportunity to design a **custom wheel hub** for the Lincoln based on an initial render provided by the industrial engineer that we work alongside with. The design process required careful consideration of **mechanical fitment**, including interface with the brake rotor and clearance for the brake calipers. **Multiple design iterations were explored**, evaluating wheel thickness and integrated whitewall proportions. The final concept recreated the classic whitewall aesthetic by incorporating it directly into the rim design rather than the tire itself. I 3D modeled the wheel hub in Fusion and 3D printed sections of different variations of the wheel for testing. 
+<div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/lincolnwheel.png" alt="lw" style="height: 437px; width: auto;">
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/lincolnwheelfit.jpg" alt="lwfit" style="height: 275px; width: auto;">
   <img src="assets/lincolnwheelfit2.jpg" alt="lwfit2" style="height: 275px; width: auto;">
 </div>
 
-## Supporting Projects & One-offs:
+### Microswitch Door Handle
+
+I redesigned and the 1965 Lincoln Continental **door handles** for billet CNC manufacturing and converted the previous latch actuation linkage to a **hidden microswitch button**. I also added an interior reinforcement back plate to improve load distribution and prevent long-term deformation of the handle which had occured on the original handle.
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/doorhandle2.PNG" alt="dh2" style="height: 300px; width: auto;">
+  <img src="assets/doorhandle3.PNG" alt="dh3" style="height: 300px; width: auto;">
+</div>
 
 ### Custom 1968 Camaro Grilles
 Another project involved designing **custom lower grilles** for a classic **1968 Camaro** car model. The design required careful **integration and mounting** with the existing front body panels and **visual alignment with the upper grille**. Using Fusion, I designed both driver and passenger side grilles and tested fitment through 3D-printed prototypes. A key challenge in this project was that the pre-existing left and right openings of the front of the Camaro were not perfectly symmetric, requiring two distinct designs to achieve proper fitting.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/GrilleCAD.PNG" alt="grilleopen" style="height: 290px; width: auto;">
-  <img src="assets/GrilleFinalCAD.png" alt="grillecad" style="height: 290px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/GrilleCAD.PNG" alt="grilleopen" style="height: 300px; width: auto;">
+  <img src="assets/GrilleFinal.jpg" alt="grillefinal" style="height: 300px; width: auto;">
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/GrilleFinal.jpg" alt="grillefinal" style="height: 450px; width: auto;">
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/GrilleFinalCAD.png" alt="grillecad" style="height: 300px; width: auto;">
+  <img src="assets/grill1.jpg" alt="grille1" style="height: 300px; width: auto;">
 </div>
 
 ### Fierro Fab Press Brake 
-I was tasked with designing a custom 50" press brake for our shop. The design incorporated sheet-metal drawers engineered to support the weight of the press brake fingers and stamping tools, providing organized storage while maintaining structural integrity under load. 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="assets/Pressbrake.jpg" alt="pb" style="height: 300px; width: auto;">
-  <img src="assets/pressbrakeopen.jpg" alt="pbo" style="height: 300px; width: auto;">
+I was tasked with designing a custom **50" press brake** for our shop. The press brake incorporated **sheet-metal drawers** engineered to support the weight of the press brake fingers and stamping tools, providing organized storage while maintaining structural integrity under load. 
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/pressbrake1.png" alt="pb" style="height: 300px; width: auto;">
+  <img src="assets/pressbrake2.png" alt="pbo" style="height: 300px; width: auto;">
 </div>
 
 ### Custom Gasket Trim
 
-For the same Camaro I designed the lower grilles for, I also created custom gasket trim for the interior door panels. The stock trim had rough edges and did not taper cleanly, so I was tasked with designing a piece that would both conceal the unfinished area and provide a smooth, finished appearance. Similar to the original gasket, we produced the part using matte TPU, allowing it to flex and conform precisely into the intended slit.
+For the same Camaro I designed the lower grilles for, I also created **custom gasket trim** for the interior door panels. The stock trim had rough edges and did not taper cleanly, so I was tasked with designing a piece that would both conceal the unfinished area and provide a smooth, finished appearance. Matching the profile to the original gasket, we produced the part using matte TPU, allowing it to flex and conform precisely into the intended slot.
 
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/camarofrontdoor.jpg" alt="cfd" style="height: 300px; width: auto;">
-  <img src="assets/customgasketCAD.jpg" alt="cgcad" style="height: 300px; width: auto;">
+  <img src="assets/doortrim1.png" alt="dt1" style="height: 300px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 5px;">
