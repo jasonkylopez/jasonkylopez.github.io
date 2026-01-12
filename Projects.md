@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects
+title: Academic & Personal Projects 
 nav_order: 3
 has_children: true
 ---
 
-# Projects
+# Academic & Personal Projects 
 
 For more details click on a specific page.

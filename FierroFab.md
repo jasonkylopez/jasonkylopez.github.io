@@ -30,9 +30,9 @@ Work Flow:
 
 Identify problem and solution → 3D scanning → Surface Modeling and/or CAD → 3D Printing → Final Product
 
-Rear Inner Quarter to Flip-up Panel
+**Rear Inner Quarter to Flip-up Panel**
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="assets/iqp_scan.png" alt="iqp_scan" style="height: 290px; width: auto;">
+  <img src="assets/iqp_scan2.png" alt="iqp_scan2" style="height: 300px; width: auto;">
   <img src="assets/iqp_surface .png" alt="iqp_surface" style="height: 300px; width: auto;">
 </div>
 
@@ -40,18 +40,20 @@ Rear Inner Quarter to Flip-up Panel
   <img src="assets/iqp_femalebuck.png" alt="grilleopen" style="height: 300px; width: auto;">
 </div>
 
+**Rear Fender (Dog Leg)**
 
 
 ### Wheel Hub Design
 
-I had the amazing opportunity to design a **custom wheel hub** for the Lincoln based on an initial render provided by the industrial engineer that we work alongside with. The design process required careful consideration of **mechanical fitment**, including interface with the brake rotor and clearance for the brake calipers. **Multiple design iterations were explored**, evaluating wheel thickness and integrated whitewall proportions. The final concept recreated the classic whitewall aesthetic by incorporating it directly into the rim design rather than the tire itself. I 3D modeled the wheel hub in Fusion and 3D printed sections of different variations of the wheel for testing. 
+I had the amazing opportunity to design a **custom wheel hub** for the Lincoln based on an initial render provided by the industrial engineer that we work alongside with. The design process required careful consideration of **mechanical fitment**, including interface with the brake rotor and clearance for the brake calipers. **Multiple design iterations were explored**, evaluating wheel thickness and integrated whitewall proportions. The final concept recreated the classic whitewall aesthetic by incorporating it directly into the rim design rather than the tire itself. I 3D modeled the wheel hub in Fusion and 3D printed sections of **15 different variations** of the wheel for testing. 
+
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/lincolnwheel.png" alt="lw" style="height: 437px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="assets/lincolnwheelfit.jpg" alt="lwfit" style="height: 275px; width: auto;">
-  <img src="assets/lincolnwheelfit2.jpg" alt="lwfit2" style="height: 275px; width: auto;">
+  <img src="assets/lincolnwheelfit.jpg" alt="lwfit" style="height: 283px; width: auto;">
+  <img src="assets/lincolnwheelfit2.jpg" alt="lwfit2" style="height: 283px; width: auto;">
 </div>
 
 ### Microswitch Door Handle
@@ -83,9 +85,17 @@ I was tasked with designing a custom **50" press brake** for our shop. The press
   <img src="assets/pressbrake2.png" alt="pbo" style="height: 300px; width: auto;">
 </div>
 
+### Air Baffles
+As a complementary component to the 1968 Camaro grille redesign, I developed trunk air-relief baffles that allow trapped air to escape while preserving a cohesive aesthetic with the car. The parts feature integrated snap-fit tabs to locate and retain the baffles during installation on the driver and passenger side interior trunk panels.
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="assets/ab2 .jpg" alt="ab2" style="height: 300px; width: auto;">
+  <img src="assets/ab1.jpg" alt="ab1" style="height: 300px; width: auto;">
+</div>
+
 ### Custom Gasket Trim
 
-For the same Camaro I designed the lower grilles for, I also created **custom gasket trim** for the interior door panels. The stock trim had rough edges and did not taper cleanly, so I was tasked with designing a piece that would both conceal the unfinished area and provide a smooth, finished appearance. Matching the profile to the original gasket, we produced the part using matte TPU, allowing it to flex and conform precisely into the intended slot.
+For the same Camaro I designed the lower grilles and air baffles, I also created **custom gasket trim** for the interior door panels. The stock trim had rough edges and did not taper cleanly, so I was tasked with designing a piece that would both conceal the unfinished area and provide a smooth, finished appearance. Matching the profile to the original gasket, we produced the part using matte TPU, allowing it to flex and conform precisely into the intended slot.
 
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/camarofrontdoor.jpg" alt="cfd" style="height: 300px; width: auto;">
