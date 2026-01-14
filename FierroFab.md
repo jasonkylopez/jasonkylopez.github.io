@@ -5,7 +5,7 @@ parent: Work Experience
 nav_order: 1
 ---
 
-# Fierro Fab - Mechanical Engineer I
+# Fierro Fab - Mechanical Engineer
 **San Pedro, CA** | *April 2025 – {Present}*
 
 ---
