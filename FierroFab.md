@@ -98,7 +98,7 @@ I also designed and prototyped custom interior covers to conceal wiring beneath 
   <img src="assets/covers2.jpg" alt="cvr2" style="height: 300px; width: auto;">
 </div>
 
-### Air Baffles
+### 1968 Camaro - Air Baffles
 Another complementary component to the 1968 Camaro grille redesign, I developed trunk air-relief baffles that allow trapped air to escape while preserving a cohesive aesthetic with the car. The parts feature integrated snap-fit tabs to locate and retain the baffles during installation on the driver and passenger side interior trunk panels.
 
 <div style="display: flex; justify-content: center; gap: 5px;">
