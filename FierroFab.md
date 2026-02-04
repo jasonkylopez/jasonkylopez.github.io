@@ -81,7 +81,8 @@ I had the amazing opportunity to design a **custom wheel hub** for the Lincoln b
 
 ### Microswitch Door Handle
 
-For another project, I redesigned and modernized the 1965 Lincoln Continental **door handles** for billet CNC manufacturing and converted the previous latch actuation linkage mechanism to a **hidden microswitch button**. I also added an interior reinforcement back plate to improve load distribution and prevent long-term deformation of the handle which had occured on the original handle. Some main things that were considered in the design: Clearance for the backing plate behind the door skin; Designed button mechanism to be smooth using press-fit shaft and oil-embedded brass bushing; Button met desired travel distance of 0.25in which gives it a satifying feel; Custom gasket thats matches the profiles of the handles against the door skin. 
+For this project, I redesigned and modernized the 1965 Lincoln Continental **door handles for billet CNC manufacturing**, replacing the original mechanical latch linkage with a **hidden microswitch button**. An **interior reinforcement back plate** was added to improve load distribution and eliminate the long-term handle deformation seen in the original design.
+Key design considerations included maintaining **proper clearance** behind the door skin for the backing plate, developing a smooth and durable button mechanism using a **press-fit shaft with an oil-embedded brass bushing**, and tuning the button travel to 0.25 in for a positive, tactile feel. A **custom gasket** was also designed to match the handle profile and ensure proper sealing against the door skin. 
 
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/handlerender1.PNG" alt="dh2" style="height: 300px; width: auto;">
