@@ -58,7 +58,8 @@ Identify problem and solution → 3D scanning → Surface Modeling and/or CAD �
 </div>
 
 **Rear Quarter Panel (Dog Leg)**
-https://www.instagram.com/reel/DNUHLRAR8gS/?igsh=NTc4MTIwNjQ2YQ==
+
+[Demonstration](https://www.instagram.com/reel/DNUHLRAR8gS/?igsh=NTc4MTIwNjQ2YQ==)
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/doglegfixed.jpg" alt="dog1" style="height: 300px; width: auto;">
   <img src="assets/doglegfixed2.jpg" alt="dog2" style="height: 300px; width: auto;">
