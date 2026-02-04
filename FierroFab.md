@@ -85,12 +85,12 @@ For this project, I redesigned and modernized the 1965 Lincoln Continental **doo
 Key design considerations included maintaining **proper clearance** behind the door skin for the backing plate, developing a smooth and durable button mechanism using a **press-fit shaft with an oil-embedded brass bushing**, and tuning the button travel to 0.25 in for a positive, tactile feel. A **custom gasket** was also designed to match the handle profile and ensure proper sealing against the door skin. 
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="assets/handlerender1.PNG" alt="dh2" style="height: 300px; width: auto;">
-  <img src="assets/backofhandle .PNG" alt="dh3" style="height: 300px; width: auto;">
+  <img src="assets/handlerender1.png" alt="dh2" style="height: 300px; width: auto;">
+  <img src="assets/backofhandle .png" alt="dh3" style="height: 300px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="assets/sectionhandle.PNG" alt="dh2" style="height: 300px; width: auto;">
+  <img src="assets/sectionhandle.png" alt="dh2" style="height: 300px; width: auto;">
   <img src="assets/handleprinted2.jpg" alt="dh3" style="height: 300px; width: auto;">
 </div>
 
