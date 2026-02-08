@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1 
 ---
-[**Resume (PDF)**](/assets/Lopez_Jason_Resume_01_2026.pdf){: .btn .btn-primary }
+[**Resume (PDF)**](/assets/Jason_Lopez_Resume.pdf){: .btn .btn-primary }
 
 About Me
 ----
