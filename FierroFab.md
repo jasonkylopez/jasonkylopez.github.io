@@ -70,7 +70,7 @@ Identify problem and solution → 3D scanning → Surface Modeling and/or CAD �
 I had the amazing opportunity to design a **custom wheel hub** for the Lincoln based on an initial render provided by the industrial engineer that we work alongside with. The design process required careful consideration of **mechanical fitment**, including interface with the brake rotor and clearance for the brake calipers. **Multiple design iterations were explored**, evaluating wheel thickness and integrated whitewall proportions. The final concept recreated the classic whitewall aesthetic by incorporating it directly into the rim design rather than the tire itself. I 3D modeled roughly **10 variations** of the wheel hub in Fusion and 3D printed different sections for testing. In the future, we plan to CNC these wheels out of billet and do some post-process chroming & polishing to give it a nice shine. 
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="assets/wheel_18_render_v2.png" alt="lw" style="height: 300px; width: auto;">
+  <img src="assets/wheel_18_render_v2.PNG" alt="lw" style="height: 300px; width: auto;">
   <img src="assets/wheelCADw18.png" alt="lw" style="height: 300px; width: auto;">
 </div>
 
