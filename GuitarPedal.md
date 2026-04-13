@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delay & Reverb Guitar Pedal
-parent: Projects
+parent: Academic & Personal Projects 
 nav_order: 4
 ---
 

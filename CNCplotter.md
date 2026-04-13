@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CNC Plotter
-parent: Projects
+parent: Academic & Personal Projects 
 nav_order: 2
 ---
 

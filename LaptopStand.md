@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adjustable Laptop Stand
-parent: Projects
+parent: Academic & Personal Projects 
 nav_order: 3
 ---
 

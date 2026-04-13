@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automatic Chessboard
-parent: Projects
+parent: Academic & Personal Projects 
 nav_order: 1
 ---
 
