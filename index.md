@@ -4,10 +4,11 @@ layout: home
 nav_order: 1 
 ---
 [**Resume (PDF)**](/assets/Jason_Lopez_Resume.pdf){: .btn .btn-primary }
+[**Work Experience**](https://jasonkylopez.github.io/WorkExperience.html)
 
 About Me
 ----
-My name is Jason Lopez, and I’m a Mechanical Engineer focused on designing products where form and function are inseparable. I enjoy transforming engineering constraints into clean, intentional designs that are both mechanically robust and visually compelling
+I'm Jason Lopez, a Mechanical Design Engineer who holds aesthetics and function to the same standard. I care about the details most people overlook, the ones you would only notice if they were wrong. A design isn't done until all of it feels right, even the parts no one can see.
 
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="assets/profphoto.jpg" alt="me" style="height: 300px; width: auto;">

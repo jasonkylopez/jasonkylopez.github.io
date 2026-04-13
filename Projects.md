@@ -7,4 +7,4 @@ has_children: true
 
 # Academic & Personal Projects 
 
-For more details click on a specific page.
+For more details click on a specific page. 
