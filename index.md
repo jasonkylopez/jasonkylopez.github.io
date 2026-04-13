@@ -4,9 +4,7 @@ layout: home
 nav_order: 1 
 ---
 [**Resume (PDF)**](/assets/Jason_Lopez_Resume.pdf){: .btn .btn-primary }
-
 [**Work Experience**](https://jasonkylopez.github.io/WorkExperience.html){: .btn .btn-primary }
-
 [**Academic & Personal Projects**](https://jasonkylopez.github.io/Projects.html){: .btn .btn-primary }
 
 About Me
